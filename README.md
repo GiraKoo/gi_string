@@ -1,4 +1,9 @@
-# GiString字符串类
+# GiString
+
+开源项目托管地址：  
+
+- [Gitee](https://gitee.com/girakoo/gi_string.git)  
+- [Github](https://github.com/GiraKoo/gi_string.git)
 
 ## 介绍
 
@@ -33,3 +38,5 @@ https://www.girakoo.com/
 2. 新建 feature/xxxx 分支
 3. 提交代码
 4. 新建 Pull Request
+
+![logo.png](https://girakoo.com/img/logo.png)
